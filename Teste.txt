@@ -1,0 +1,49 @@
+Timpul de sortare al testelor
+
+N = 100000, Max = 100000
+MergeSort: 0.0120
+TimSort: 0.0110
+RadixSort: 0.0030
+ShellSort: 0.0149
+
+N = 100000, Max = 1000000000
+MergeSort: 0.0110
+TimSort: 0.0110
+RadixSort: 0.0030
+ShellSort: 0.0159
+
+N = 1000000, Max = 100000
+MergeSort: 0.1316
+TimSort: 0.1147
+RadixSort: 0.0219
+ShellSort: 0.1735
+
+N = 1000000, Max = 1000000000
+MergeSort: 0.1307
+TimSort: 0.1197
+RadixSort: 0.0229
+ShellSort: 0.1875
+
+N = 10000000, Max = 100000
+MergeSort: 1.4152
+TimSort: 1.3095
+RadixSort: 0.2683
+ShellSort: 2.0595
+
+N = 10000000, Max = 1000000000
+MergeSort: 1.5868
+TimSort: 1.4931
+RadixSort: 0.3151
+ShellSort: 2.4023
+
+N = 100000000, Max = 100000
+MergeSort: 15.3375
+TimSort: 14.9578
+RadixSort: 3.3662
+ShellSort: 23.1644
+
+N = 100000000, Max = 1000000000
+MergeSort: 17.5814
+TimSort: 17.1648
+RadixSort: 3.2573
+ShellSort: 28.2791
